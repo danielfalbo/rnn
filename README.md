@@ -1,6 +1,6 @@
 # nn
 
-Toy Torch.NN implementation
+Toy `torch.nn` implementation
 
 ## running the notebook
 
